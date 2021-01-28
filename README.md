@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
 <p align="rigth">
-[![igoririneu github stats](https://github-readme-stats.vercel.app/api?username=igoririneu&show_icons=true)](https://github.com/igoririneu/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=igoririneu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
