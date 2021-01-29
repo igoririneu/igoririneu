@@ -32,9 +32,9 @@ Hey, I'm Igor 👋</h1>
 
 <hr>
 
+<h2 align="center">Get In Touch 📫<h2>
+
 <p align="center">
-<h2>Get In Touch 📫<h2>
-  
 <a href="mailto:igor.irineo1002@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 <a href="https://github.com/igoririneu"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 <a href="https://in.linkedin.com/in/igoririneu"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
