@@ -42,4 +42,4 @@ Hey, I'm Igor 👋</h1>
 
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
 
-⭐️ From [igoririneu](https://github.com/igoririneu)
+⭐️ <em> From [igoririneu](https://github.com/igoririneu)</em>
