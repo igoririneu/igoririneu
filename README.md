@@ -1,16 +1,19 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%"></p>
   <br><br>
-  
+
 <hr>
+
 <h1 align="center">
 Hey, I'm Igor 👋</h1>
 <em>A dedicated graduate of systems analysis and development.</em>
 
 <hr>
-<img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
-<h2>Studying technology and tools<h2>
+<p align="center">
+<img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" /></p>
+
+<h2>Studying / preferences technology and tools<h2>
  
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
