@@ -29,6 +29,16 @@ Hey, I'm Igor 👋</h1>
 <hr>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=igoririneu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<
+
+<hr>
+
+<p align="center">
+<h2>Get In Touch 📫<h2>
+  
+<a href="mailto:igor.irineo1002@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://github.com/igoririneu"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://in.linkedin.com/in/igoririneu"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+</p>
+
 
 ⭐️ From [igoririneu](https://github.com/igoririneu)
