@@ -12,7 +12,8 @@ Hey, I'm Igor 👋</h1>
 <br>
 
 <h2>studying technology and tools<h2>
-  
+<details> 
+  <summary>Click to open</summary>
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"><br>
@@ -25,7 +26,7 @@ Hey, I'm Igor 👋</h1>
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
-
+</details>
 <hr>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=igoririneu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
