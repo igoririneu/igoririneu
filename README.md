@@ -11,7 +11,8 @@ Hey, I'm Igor 👋</h1>
 <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 <br>
 
-<h2>studying technology and tools<h2>
+<h2>Studying technology and tools<h2>
+  <br>
 <details> 
   <summary>Click to open</summary>
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
