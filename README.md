@@ -8,8 +8,9 @@ Hey, I'm Igor 👋</h1>
 <em>A dedicated graduate of systems analysis and development.</em>
 
 <hr>
-<details>
-<summary><h2>studying technology and tools<h2></summary>
+<details> <summary><h2>studying technology and tools<h2></summary>
+
+<br>
 
 <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"><br>
