@@ -8,9 +8,9 @@
 Hey, I'm Igor 👋</h1>
 <em>
 🚀 Estou sempre aprendendo algo!
-
+  <br><br>
 ⚡ Graduando em Análise e desenvolvimento de sistemas.
-
+  <br><br>
 🔥 Em busca de um estágio que me proporcione desafios e aprendizados.</em>
 
 <hr>
