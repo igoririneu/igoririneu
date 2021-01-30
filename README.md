@@ -6,7 +6,12 @@
 
 <h1 align="center">
 Hey, I'm Igor 👋</h1>
-<em>A dedicated graduate of systems analysis and development.</em>
+<em>
+🚀 Estou sempre aprendendo algo!
+
+⚡ Graduando em Análise e desenvolvimento de sistemas.
+
+🔥 Em busca de um estágio que me proporcione desafios e aprendizados.</em>
 
 <hr>
 
