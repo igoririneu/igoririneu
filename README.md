@@ -7,11 +7,11 @@
 <h1 align="center">
 Hey, I'm Igor 👋</h1>
 <em>
-🚀 Estou sempre aprendendo algo!
-  <br><br>
-⚡ Graduando em Análise e desenvolvimento de sistemas.
-  <br><br>
-🔥 Em busca de um estágio que me proporcione desafios e aprendizados.</em>
+🚀 I'm always learning something!
+<br><br>
+⚡ Graduating in Analysis and systems development.
+<br><br>
+🔥 In search of an internship that provides challenges and learning.
 
 <hr>
 
