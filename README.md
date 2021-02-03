@@ -47,4 +47,4 @@ Hey, I'm Igor 👋</h1>
 <a href="https://in.linkedin.com/in/igoririneu"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 </p>
 
-⭐️ <em> From [igoririneu](https://github.com/igoririneu)</em>
+⭐️ <em> From [igoririneu](https://www.linkedin.com/in/igoririneu/)</em>
