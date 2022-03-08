@@ -38,10 +38,8 @@ Hey, I'm Igor 👋</h1>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=igoririneu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
 <hr>
-  
-<p align="center"> 
+ 
 ![Snake animation](https://github.com/igoririneu/igoririneu/blob/output/github-contribution-grid-snake.svg) 
-</p>
 
 <hr>
 
