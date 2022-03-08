@@ -39,7 +39,9 @@ Hey, I'm Igor 👋</h1>
   
 <hr>
   
-<p align="center">![Snake animation](https://github.com/igoririneu/igoririneu/blob/output/github-contribution-grid-snake.svg)</p>
+<p align="center"> 
+![Snake animation](https://github.com/igoririneu/igoririneu/blob/output/github-contribution-grid-snake.svg) 
+</p>
 
 <hr>
 
