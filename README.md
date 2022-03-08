@@ -48,4 +48,4 @@ Hey, I'm Igor 👋</h1>
 
 ⭐️ <em> From [igoririneu](https://www.linkedin.com/in/igoririneu/)</em>
   
-  ![Snake animation](https://github.com/igoririneu/igoririneu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/igoririneu/igoririneu/blob/output/github-contribution-grid-snake.svg)
