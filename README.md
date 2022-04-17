@@ -11,7 +11,7 @@ Hey, I'm Igor 👋</h1>
 <br><br>
 ⚡ Graduating in Analysis and systems development.
 <br><br>
-🔥 In search of an internship that provides challenges and learning.
+🔥 Never stop learning.
 
 <hr>
 
